@@ -8,7 +8,9 @@ Nesta página vais poder ver todas as trades que vou abrir com opções em açõ
 
 <iframe src="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" style="width:100%;height:650px;"></iframe>
 <br>
+
 ### LINKS:
+
 - <a href="https://www.instagram.com/viverdeinvestimentos_/" target="_blank">Instagram - @ViverDeInvestimentos_ 🔗</a>
 - <a href="https://discord.com/invite/BkRRBWdJG2" target="_blank">Discord - Grupo de Investidores 🇵🇹</a>
 - <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" target="_blank">Spreadsheet com todas as trades 📝</a>
