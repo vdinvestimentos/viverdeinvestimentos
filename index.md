@@ -2,7 +2,7 @@
 
 # @ViverDeInvestimentos_ no Instagram <a href="https://www.instagram.com/viverdeinvestimentos_/" target="_blank">🔗</a>
 
-Nesta site podes ver todas as trades que vou abrir com opções em ações americanas com uma conta de $100k USD. O Objetivo é conseguir uma rentabilidade superior 1% ao mês.
+**Desafio**: Nesta site podes ver todas as trades que vou abrir com opções em ações americanas com uma conta de $100k USD. O Objetivo é conseguir uma rentabilidade superior 1% ao mês.
 
 📊 Podes ver todas as <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" target="_blank">trades</a> na seguinte Spreadsheet:
 
