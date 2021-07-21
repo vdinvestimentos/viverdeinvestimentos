@@ -1,7 +1,7 @@
 <br>
 # @ViverDeInvestimentos_ no Instagram
 Desafio
-Podes ver todas as [trades](https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/) na seguinte Spreadsheet:
+📊 Podes ver todas as [trades](https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/) na seguinte Spreadsheet:
 <iframe src="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" style="width:100%;height:650px;"></iframe>
 ### LINKS:  
 - [Instagram - @ViverDeInvestimentos_ 🔗](https://www.instagram.com/viverdeinvestimentos_/)
