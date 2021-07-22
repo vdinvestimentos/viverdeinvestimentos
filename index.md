@@ -19,3 +19,5 @@
 <br>
 
 <iframe src="https://discord.com/widget?id=721457110822420561&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+<style>header {display: none;} </style>
