@@ -17,6 +17,3 @@
 - <a href="https://docs.google.com/document/d/1z_dtD65isd2-e50LvfJR9oyLEWl3WvblNQyap4FN7YU" target="_blank">Respostas às perguntas mais frequentes 📘</a>
 
 <br>
-
-<style>header {display: none;} </style>
-
