@@ -17,3 +17,5 @@
 - <a href="https://docs.google.com/document/d/1z_dtD65isd2-e50LvfJR9oyLEWl3WvblNQyap4FN7YU" target="_blank">Respostas às perguntas mais frequentes 📘</a>
 
 <br>
+
+<iframe src="https://discord.com/widget?id=721457110822420561&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
