@@ -41,5 +41,7 @@ title: About
 </div>
 <!-- TradingView Widget END -->
 
-<style>header {display: none;} </style>
+<style>header {display: none;}
+
+.tradingview-widget-copyright{color:transparent;}</style>
 
