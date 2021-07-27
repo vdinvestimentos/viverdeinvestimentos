@@ -2,7 +2,7 @@
 layout: none
 title: About
 ---
-
+<div class="footer">
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
@@ -57,9 +57,19 @@ title: About
 </div>
 <!-- TradingView Widget END -->
 <iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fcfff/tct/pct" frameborder="0" width="113" height="18" allowtransparency="true"></iframe>
-
+</div>
 <style>header {display: none;}
 .tradingview-widget-copyright{color:transparent !important;}
 .blue-text{color:transparent !important;}
-.tradingview-widget-copyright .blue-text{color:transparent !important;}</style>
+.tradingview-widget-copyright .blue-text{color:transparent !important;}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}</style>
+
+
 
