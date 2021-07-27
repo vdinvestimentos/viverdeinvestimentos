@@ -3,6 +3,8 @@ layout: none
 title: About
 ---
 <div class="footer">
+ <div style="text-align:center;"> <iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fcfff/tct/pct" frameborder="0" width="113" height="18" allowtransparency="true"></iframe></div>
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
@@ -56,7 +58,6 @@ title: About
   </script>
 </div>
 <!-- TradingView Widget END -->
-<iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fcfff/tct/pct" frameborder="0" width="113" height="18" allowtransparency="true"></iframe>
 </div>
 <style>header {display: none;}
 .tradingview-widget-copyright{color:transparent !important;}
