@@ -49,12 +49,13 @@ title: About
     }
   ],
   "colorTheme": "dark",
-  "isTransparent": false,
+  "isTransparent": true,
   "showSymbolLogo": true,
   "locale": "en"
 }
   </script>
 </div>
+<!-- TradingView Widget END -->
 <!-- TradingView Widget END -->
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
