@@ -56,6 +56,7 @@ title: About
   </script>
 </div>
 <!-- TradingView Widget END -->
+<iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fcfff/tct/pct" frameborder="0" width="113" height="18" allowtransparency="true"></iframe>
 
 <style>header {display: none;}
 .tradingview-widget-copyright{color:transparent !important;}
