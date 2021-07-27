@@ -23,10 +23,6 @@ title: About
       "proName": "FOREXCOM:US2000"
     },
     {
-      "description": "VIX",
-      "proName": "FOREXCOM:VIX"
-    },
-    {
       "description": "EUR/USD",
       "proName": "FX:EURUSD"
     },
