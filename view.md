@@ -3,7 +3,7 @@ layout: none
 title: About
 ---
 <div class="footer">
- <div style="text-align:center;">PT <iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fn2/fs18/fcfff/tct/pct" frameborder="0" width="122" height="28" allowtransparency="true" align="right"></iframe></div>
+ <div style="text-align:right;"><span style="color:white; text-size: 18px;">PT</span> <iframe src="https://free.timeanddate.com/clock/i7wu89wd/n320/fs18/fcfff/tct/pct" frameborder="0" width="122" height="28" allowtransparency="true" align="right"></iframe></div>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
