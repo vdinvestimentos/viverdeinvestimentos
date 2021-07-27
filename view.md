@@ -20,11 +20,11 @@ title: About
     },
     {
       "description": "Russell 2000",
-      "proName": "TVC:RUT"
+      "proName": "FOREXCOM:US2000"
     },
     {
       "description": "VIX",
-      "proName": "TVC:VIX"
+      "proName": "FOREXCOM:VIX"
     },
     {
       "description": "EUR/USD",
