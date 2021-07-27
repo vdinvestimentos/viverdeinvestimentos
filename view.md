@@ -43,5 +43,5 @@ title: About
 
 <style>header {display: none;}
 
-.tradingview-widget-copyright{color:transparent;!important}</style>
+.tradingview-widget-copyright{color:transparent !important;}</style>
 
