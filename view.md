@@ -19,16 +19,36 @@ title: About
       "title": "Nasdaq 100"
     },
     {
-      "proName": "FX_IDC:EURUSD",
-      "title": "EUR/USD"
+      "description": "Russell 2000",
+      "proName": "TVC:RUT"
     },
     {
-      "proName": "BITSTAMP:BTCUSD",
-      "title": "BTC/USD"
+      "description": "VIX",
+      "proName": "TVC:VIX"
     },
     {
-      "proName": "BITSTAMP:ETHUSD",
-      "title": "ETH/USD"
+      "description": "EUR/USD",
+      "proName": "FX:EURUSD"
+    },
+    {
+      "description": "BTC/USD",
+      "proName": "BITSTAMP:BTCUSD"
+    },
+    {
+      "description": "ETH/USD",
+      "proName": "BITSTAMP:ETHUSD"
+    },
+    {
+      "description": "BTC.D",
+      "proName": "CRYPTOCAP:BTC.D"
+    },
+    {
+      "description": "Gold",
+      "proName": "TVC:GOLD"
+    },
+    {
+      "description": "Oil",
+      "proName": "TVC:USOIL"
     }
   ],
   "showSymbolLogo": true,
