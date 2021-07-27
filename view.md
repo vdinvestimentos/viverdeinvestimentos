@@ -63,5 +63,6 @@ title: About
 
 <style>header {display: none;}
 .tradingview-widget-copyright{color:transparent !important;}
-.blue-text{color:transparent !important;}</style>
+.blue-text{color:transparent !important;}
+.tradingview-widget-copyright .blue-text{color:transparent !important;}</style>
 
