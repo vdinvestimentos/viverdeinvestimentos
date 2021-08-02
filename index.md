@@ -18,8 +18,8 @@
 
 <br>
 
-<iframe src="https://discord.com/widget?id=721457110822420561&theme=dark" width="450" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=721457110822420561&theme=dark" width="550" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-**Disclaimer**: Neste site podem encontrar informação educativa e de entretenimento sobre investimentos. Não faço qualquer aconselhamento personalizado nem recomendações de compra ou venda de produtos financeiros. Estou aqui para partilhar o que estou a fazer. Aprender a operar com opções requer estudo.
+**Disclaimer**: Neste site podem encontrar conteúdo informativo e de entretenimento sobre investimentos. Não faço qualquer aconselhamento personalizado nem recomendações de compra ou venda de produtos financeiros. Estou aqui para partilhar o que estou a fazer. Opções são produtos financeiros complexos e requerem estudo para aprender a operar.
 
 <style>header {display: none;} </style>
