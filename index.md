@@ -21,3 +21,12 @@
 **Disclaimer**: Neste site podem encontrar conteúdo informativo e de entretenimento sobre investimentos. Não faço qualquer aconselhamento personalizado nem recomendações de compra ou venda de produtos financeiros. Estou aqui para partilhar o que estou a fazer. Opções são produtos financeiros complexos e requerem estudo para aprender a operar.
 
 <style>header {display: none;} </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WN608V0GJM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WN608V0GJM');
+</script>
