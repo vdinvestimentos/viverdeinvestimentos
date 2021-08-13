@@ -6,14 +6,14 @@
 
 📊 Podes ver todas as <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" target="_blank">trades</a> na seguinte Spreadsheet:
 
-<iframe src="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" style="width:100%;height:650px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/?headers=false&amp" style="width:100%;height:650px;"></iframe>
 <br>
 
 ### LINKS:
 
 - <a href="https://www.instagram.com/viverdeinvestimentos_/" target="_blank">Instagram - @ViverDeInvestimentos_ 🔗</a>
 - <a href="https://discord.com/invite/BkRRBWdJG2" target="_blank">Discord - Grupo de Investidores 🇵🇹</a>
-- <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg?headers=false&amp" target="_blank">Spreadsheet com todas as trades 📝</a>
+- <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" target="_blank">Spreadsheet com todas as trades 📝</a>
 - <a href="https://docs.google.com/document/d/1z_dtD65isd2-e50LvfJR9oyLEWl3WvblNQyap4FN7YU" target="_blank">Respostas às perguntas mais frequentes 📘</a>
 
 <br>
