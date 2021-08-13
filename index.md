@@ -6,7 +6,7 @@
 
 📊 Podes ver todas as <a href="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/" target="_blank">trades</a> na seguinte Spreadsheet:
 
-<iframe src="https://docs.google.com/spreadsheets/d/170a-fq7Pc1XxwtpfBumxKdZ9QLgExr5dLnvPS4g1_hg/?headers=false&amp" style="width:100%;height:650px;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQyc8WER6fXu9ShQXzpO5UHfv5-jUhR9Pm9QZx7ipgXnYbwDwkFXy8Dh6P-o1A7uDHA90m_BzwA5NY8/pubhtml?widget=true&amp;headers=false" style="width:100%;height:650px;"></iframe>
 <br>
 
 ### LINKS:
